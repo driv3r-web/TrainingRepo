@@ -19,9 +19,8 @@ steps:
     resourceGroupName: 'PlaygroundWebApp-rg'
     location: 'West Europe'
     templateLocation: 'URL of the file'
-    csmFileLink: 'https://raw.githubusercontent.com/driv3r-web/TrainingRepo/main/CreateWebApp/azuredeploy.json?token=GHSAT0AAAAAABXV7BQ3H5IZVXFEJDSKI35CYX3KQ3A'
+    csmFileLink: ''
     csmParametersFile:
-    overrideParameters: '-projectName oys'
     deploymentMode: 'Incremental'
     deploymentName: 'DeployPipelineTemplate'
 
