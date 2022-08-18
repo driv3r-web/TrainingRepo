@@ -16,7 +16,7 @@ steps:
     azureResourceManagerConnection: 'playground_sc'
     subscriptionId: '441bdda5-40a4-4332-9efd-33390f802cb8'
     action: 'Create Or Update Resource Group'
-    resourceGroupName: 'PlaygroundWebApp-rg'
+    resourceGroupName: 'PlaygWebApp-rg'
     location: 'West Europe'
     templateLocation: 'URL of the file'
     csmFileLink: 'https://raw.githubusercontent.com/driv3r-web/TrainingRepo/main/CreateWebApp/azuredeploy.json'
