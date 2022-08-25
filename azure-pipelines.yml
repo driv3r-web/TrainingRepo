@@ -21,7 +21,7 @@ steps:
     templateLocation: 'URL of the file'
     csmFileLink: 'https://raw.githubusercontent.com/driv3r-web/TrainingRepo/main/CreateWebApp/azuredeploy.json'
     csmParametersFile: 'https://raw.githubusercontent.com/driv3r-web/TrainingRepo/main/CreateWebApp/azuredeploy.parameters.json'
-    overrideParameters: '-projectName oysr'
+    overrideParameters: '-projectName oysr1'
     deploymentMode: 'Incremental'
     deploymentName: 'DeployPipelineTemplate'
 
